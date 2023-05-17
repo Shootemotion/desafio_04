@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"title": "Camiseta",
+		"description": "Camiseta de algodón",
+		"price": 20,
+		"thumbnail": "imagen_camiseta.jpg",
+		"code": "C001",
+		"stock": 10
+	},
+	{
+		"id": 2,
+		"title": "Pantalón",
+		"description": "Pantalón de mezclilla",
+		"price": 30,
+		"thumbnail": "imagen_pantalon.jpg",
+		"code": "P001",
+		"stock": 5
+	}
+]
